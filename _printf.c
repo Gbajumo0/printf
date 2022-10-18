@@ -10,7 +10,7 @@
  * (excluding the null byte used to end output to strings)
  */
 
-int printIdentifiers(char next, va_list arg)
+
 {
 	int functsIndex;
 
