@@ -7,7 +7,7 @@
  * Return: number of digits printed
  */
 
-
+int print_hex_base(va_list arg, char _case)
 {
 	unsigned int num = va_arg(arg, unsigned int);
 	int nbrCharacters;
