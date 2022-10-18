@@ -6,3 +6,4 @@ We successfully created _putchar.c file
 We successfully created print_binary.c file
 We successfully created print_functions.c file
 We successfully created print_functions_derived.c file
+We successfully created print_hexadecimal.c file
